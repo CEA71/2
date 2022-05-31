@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e2286c6-23e2-41d6-b7b6-e03c2864a763" name="Default" comment="sorevnovanie kolxoznikov">
+    <list default="true" id="4e2286c6-23e2-41d6-b7b6-e03c2864a763" name="Default" comment="arrays">
+      <change beforePath="$PROJECT_DIR$/../1" beforeDir="false" afterPath="$PROJECT_DIR$/../1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1/src/WhatIsYourName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1/src/WhatIsYourName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +179,7 @@
       <workItem from="1653482735682" duration="1497000" />
       <workItem from="1653552812605" duration="1527000" />
       <workItem from="1653893918288" duration="1185000" />
-      <workItem from="1653992529297" duration="1262000" />
+      <workItem from="1653992529297" duration="2091000" />
     </task>
     <task id="LOCAL-00001" summary="sorevnovanie kolxoznikov">
       <created>1653040334490</created>
@@ -187,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653040334491</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="arrays">
+      <created>1653995083853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653995083853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -240,7 +248,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sorevnovanie kolxoznikov" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorevnovanie kolxoznikov" />
+    <MESSAGE value="arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrays" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
