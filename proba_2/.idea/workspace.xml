@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e2286c6-23e2-41d6-b7b6-e03c2864a763" name="Default" comment="arrays">
+    <list default="true" id="4e2286c6-23e2-41d6-b7b6-e03c2864a763" name="Default" comment="arrays_menu">
       <change beforePath="$PROJECT_DIR$/../1" beforeDir="false" afterPath="$PROJECT_DIR$/../1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1/src/WhatIsYourName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1/src/WhatIsYourName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/src/ObjCopy/MakeObjCopyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1/src/ObjCopy/MakeObjCopyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +14,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
@@ -90,7 +97,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
-  <component name="RunManager" selected="Application.WhatIsYourName">
+  <component name="RunManager" selected="Application.MakeObjCopyDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -102,6 +109,20 @@
       <option name="MAIN_CLASS_NAME" value="InstanceOf" />
       <module name="git" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeObjCopyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjCopy.MakeObjCopyDemo" />
+      <module name="git" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjCopy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -155,6 +176,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeObjCopyDemo" />
         <item itemvalue="Application.WhatIsYourName" />
         <item itemvalue="Application.Print" />
         <item itemvalue="Application.InstanceOf" />
@@ -179,7 +201,9 @@
       <workItem from="1653482735682" duration="1497000" />
       <workItem from="1653552812605" duration="1527000" />
       <workItem from="1653893918288" duration="1185000" />
-      <workItem from="1653992529297" duration="2091000" />
+      <workItem from="1653992529297" duration="4757000" />
+      <workItem from="1654598532720" duration="3498000" />
+      <workItem from="1654757416285" duration="3886000" />
     </task>
     <task id="LOCAL-00001" summary="sorevnovanie kolxoznikov">
       <created>1653040334490</created>
@@ -195,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653995083853</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="arrays_menu">
+      <created>1653995833538</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653995833538</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -249,7 +280,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sorevnovanie kolxoznikov" />
     <MESSAGE value="arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrays" />
+    <MESSAGE value="arrays_menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrays_menu" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
