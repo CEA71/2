@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e2286c6-23e2-41d6-b7b6-e03c2864a763" name="Default" comment="copy_objeckt">
-      <change beforePath="$PROJECT_DIR$/../1/src/Zadachi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1/src/Zadachi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1/src/Zadachi/Zad_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1/src/Zadachi/Zad_8.java" afterDir="false" />
+    <list default="true" id="4e2286c6-23e2-41d6-b7b6-e03c2864a763" name="Default" comment="comparison_sin/cos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +95,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Zad_16">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -119,13 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeObjCopyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjCopy.MakeObjCopyDemo" />
+    <configuration name="Zad_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadachi.Zad_10" />
       <module name="git" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjCopy.*" />
+          <option name="PATTERN" value="Zadachi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingStatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticClass.UsingStatDemo" />
+    <configuration name="Zad_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadachi.Zad_16" />
       <module name="git" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StaticClass.*" />
+          <option name="PATTERN" value="Zadachi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,10 +145,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhatIsYourName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhatIsYourName" />
+    <configuration name="Zad_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadachi.Zad_9" />
       <module name="git" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadachi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -202,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zad_16" />
+        <item itemvalue="Application.Zad_10" />
+        <item itemvalue="Application.Zad_9" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.z_6" />
-        <item itemvalue="Application.UsingStatDemo" />
-        <item itemvalue="Application.MakeObjCopyDemo" />
-        <item itemvalue="Application.WhatIsYourName" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +236,9 @@
       <workItem from="1654598532720" duration="3498000" />
       <workItem from="1654757416285" duration="8024000" />
       <workItem from="1655190998720" duration="5231000" />
-      <workItem from="1655445078051" duration="5811000" />
+      <workItem from="1655445078051" duration="6043000" />
+      <workItem from="1656576512232" duration="6650000" />
+      <workItem from="1657617859819" duration="3277000" />
     </task>
     <task id="LOCAL-00001" summary="sorevnovanie kolxoznikov">
       <created>1653040334490</created>
@@ -262,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654761511461</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="comparison_sin/cos">
+      <created>1655451964143</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655451964143</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -318,7 +331,8 @@
     <MESSAGE value="arrays" />
     <MESSAGE value="arrays_menu" />
     <MESSAGE value="copy_objeckt" />
-    <option name="LAST_COMMIT_MESSAGE" value="copy_objeckt" />
+    <MESSAGE value="comparison_sin/cos" />
+    <option name="LAST_COMMIT_MESSAGE" value="comparison_sin/cos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
