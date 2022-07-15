@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e2286c6-23e2-41d6-b7b6-e03c2864a763" name="Default" comment="comparison_sin/cos">
+    <list default="true" id="4e2286c6-23e2-41d6-b7b6-e03c2864a763" name="Default" comment="TABLICA">
+      <change beforePath="$PROJECT_DIR$/../1/src/Zadachi/Zad_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1/src/Zadachi/Zad_16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,7 +239,8 @@
       <workItem from="1655190998720" duration="5231000" />
       <workItem from="1655445078051" duration="6043000" />
       <workItem from="1656576512232" duration="6650000" />
-      <workItem from="1657617859819" duration="3277000" />
+      <workItem from="1657617859819" duration="3295000" />
+      <workItem from="1657884318459" duration="1503000" />
     </task>
     <task id="LOCAL-00001" summary="sorevnovanie kolxoznikov">
       <created>1653040334490</created>
@@ -275,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655451964143</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="TABLICA">
+      <created>1657629076898</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657629076898</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -332,7 +341,8 @@
     <MESSAGE value="arrays_menu" />
     <MESSAGE value="copy_objeckt" />
     <MESSAGE value="comparison_sin/cos" />
-    <option name="LAST_COMMIT_MESSAGE" value="comparison_sin/cos" />
+    <MESSAGE value="TABLICA" />
+    <option name="LAST_COMMIT_MESSAGE" value="TABLICA" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
