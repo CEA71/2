@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e2286c6-23e2-41d6-b7b6-e03c2864a763" name="Default" comment="TABLICA_1">
-      <change beforePath="$PROJECT_DIR$/../1/src/Zadachi/Zad_A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1/src/Zadachi/Zad_A2.java" afterDir="false" />
+    <list default="true" id="4e2286c6-23e2-41d6-b7b6-e03c2864a763" name="Default" comment="simple tasks">
+      <change beforePath="$PROJECT_DIR$/../1/src/Zadachi/Zad_A5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1/src/Zadachi/Zad_A5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,55 +96,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
-  <component name="RunManager" selected="Application.Zad_A2">
+  <component name="RunManager" selected="Application.Zad_A5">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="Zad_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadachi.Zad_10" />
-      <module name="git" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Zadachi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zad_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadachi.Zad_16" />
-      <module name="git" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Zadachi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zad_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadachi.Zad_9" />
-      <module name="git" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Zadachi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="Zad_A1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zadachi.Zad_A1" />
@@ -162,6 +120,48 @@
     </configuration>
     <configuration name="Zad_A2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zadachi.Zad_A2" />
+      <module name="git" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadachi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad_A3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadachi.Zad_A3" />
+      <module name="git" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadachi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad_A4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadachi.Zad_A4" />
+      <module name="git" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadachi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad_A5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadachi.Zad_A5" />
       <module name="git" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -207,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zad_A5" />
+        <item itemvalue="Application.Zad_A4" />
+        <item itemvalue="Application.Zad_A3" />
         <item itemvalue="Application.Zad_A2" />
         <item itemvalue="Application.Zad_A1" />
-        <item itemvalue="Application.Zad_16" />
-        <item itemvalue="Application.Zad_10" />
-        <item itemvalue="Application.Zad_9" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +240,8 @@
       <workItem from="1655445078051" duration="6043000" />
       <workItem from="1656576512232" duration="6650000" />
       <workItem from="1657617859819" duration="3295000" />
-      <workItem from="1657884318459" duration="2876000" />
+      <workItem from="1657884318459" duration="3093000" />
+      <workItem from="1658226562839" duration="3019000" />
     </task>
     <task id="LOCAL-00001" summary="sorevnovanie kolxoznikov">
       <created>1653040334490</created>
@@ -291,7 +292,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657886878700</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="simple tasks">
+      <created>1657888675894</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657888675894</updated>
+    </task>
+    <task id="LOCAL-00009" summary="simple tasks">
+      <created>1657888711159</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657888711159</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -350,7 +365,8 @@
     <MESSAGE value="comparison_sin/cos" />
     <MESSAGE value="TABLICA" />
     <MESSAGE value="TABLICA_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="TABLICA_1" />
+    <MESSAGE value="simple tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple tasks" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
